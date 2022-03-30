@@ -1,7 +1,8 @@
--  Hi, I’m Juan Diego Toscano
--  I’m interested in Scientific Machine Learning
--  I’m currently learning PINNs and DeepOnets
--  You can reach me at juan_toscano@brown.edu
+-  Hi, I’m Juan Diego Toscano!
+- I am from Ecuador, and I will be starting my Engineering, Ph.D. - Fluids and Thermal Sciences program at Brown University next fall.
+-  I’m interested in Scientific Machine Learning, so I’m currently learning PINNs and DeepOnets.
+-  I have some projects related to Advanced Manufacturing Process Modeling that I will uplead soon.
+-  You can reach me at: juan_toscano@brown.edu.
 
 <!---
 jdtoscano94/jdtoscano94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
