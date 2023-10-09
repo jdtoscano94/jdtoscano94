@@ -1,9 +1,7 @@
 Hi, thanks for stopping by!
-My name is Juan Diego Toscano. I am a Ph.D. student at Brown University in the Engineering- Fluids and Thermal Sciences program. My research focuses on Scientific Machine Learning for data-driven discovery.
+I am a Ph.D. student in the Applied Mathematics department at Brown University. I earned my Bachelor's in Mechanical Engineering from the Universidad de las Fuerzas Armadas ESPE in Ecuador. My research journey began as an undergraduate when I collaborated remotely with the University at Buffalo on several projects, exploring machine learning modeling of physical systems. Since 2022, I have been working under the mentorship of Prof. George Karniadakis, delving into the realm of scientific machine learning (SciML).
 
-A few years ago, I participated in several research projects about Advanced Manufacturing Process Modeling and unsupervised learning for shape reconstruction with the University at Buffalo. I plan to upload those codes to GitHub soon!
-
-If you have any questions or if I can help you in some way, please feel free to reach me at: juan_toscano@brown.edu.
+My research focuses on obtaining reliable and stable machine learning methods to study and understand complex physical systems that cannot be analyzed using traditional methods (e.g., cerebrospinal fluid). To this end, I am currently developing optimization methods for physics-informed neural networks and artificial intelligence velocimetry (AIV).
 <!---
 jdtoscano94/jdtoscano94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
